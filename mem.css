@@ -1,0 +1,87 @@
+.tabla-posicion{
+    background-image: url("pngtree-panoramic-view-of-football-field-image_994379.jpg");
+}
+.Subtituloh1{
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -74px;
+    text-align: left;
+    padding: 54px;
+    font-family: 'Merriweather', serif;
+    font-size: xx-large;
+}
+span{
+    font-size: larger;
+}
+.Subtituloh2{
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin-left: 72px;
+    margin-top: 0px;
+    margin-bottom: -40px;
+    margin-right: 0px;
+    padding: 30px;
+    text-align: left;
+}
+.Clasificación{
+    color: white;
+    margin-left: 55px;
+    margin-top: 0px;
+    margin-bottom: -15px;
+    margin-right: 0px;
+    font-size: x-large;
+    font-family: 'Merriweather', serif;
+    padding: 10px;
+}
+.FasedeGrupos{
+    color: white;
+    margin-left: 55px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-size: x-large;
+    font-family: 'Merriweather', serif;
+    padding: 10px;
+}
+.linea-tabla1{
+    padding: 5px;
+    width: 160px;
+    margin-left: 70px;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,121,161,1) 66%, rgba(0,212,255,1) 100%);
+    filter: opacity(0.5);
+}
+.linea-tabla2{
+    padding: 5px;
+    width: 160px;
+    margin-left: 70px;
+    margin-top: 0px;
+    margin-bottom: 18px;
+    margin-right: 0px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,121,161,1) 66%, rgba(0,212,255,1) 100%);
+    filter: opacity(0.5);
+}
+table{
+    color: white;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+}
+.encabezados{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,121,161,1) 66%, rgba(0,212,255,1) 100%);
+}
+th, td, table{
+    border-collapse: collapse;
+    padding: 20px;
+}
+th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
